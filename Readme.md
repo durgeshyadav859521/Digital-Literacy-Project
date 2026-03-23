@@ -1,4 +1,4 @@
-#### &#x20;                Digital Literacy Portfolio
+#### Digital Literacy Portfolio
 
 Name: Durgesh Yadav 
 
@@ -8,7 +8,7 @@ Branch: B. Tech Computer Science and Engineering (CSE)
 
 
 
-##### Project Overview
+### Project Overview
 
 
 
@@ -16,7 +16,7 @@ This repository serves as my Digital Literacy Portfolio for the course CSE0001. 
 
 
 
-##### Module Summaries
+### Module Summaries
 
 
 
@@ -32,7 +32,7 @@ This repository serves as my Digital Literacy Portfolio for the course CSE0001. 
 
 
 
-##### Digital Literacy Quiz
+### Digital Literacy Quiz
 
 
 
